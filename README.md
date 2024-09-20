@@ -1,4 +1,4 @@
-# industriuka
+# Industriuka 2024 Stand (Bouvet)
 
 I developed a demo application and physical platform for Industriuka 2024, on behalf of Bouvet.
 
