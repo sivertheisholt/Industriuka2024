@@ -8,4 +8,6 @@ PowerBI continuously reads this file at 5-second intervals, generating real-time
 
 In the demo, a user remotely controls a wheel loader to transfer rice (or another product) between bins, while the LiDAR sensor tracks and records the volume changes in real-time.
 
+There is also a camera connected to the wheel loader to give a POV view of the driver.
+
 ![Imgur](https://github.com/sivertheisholt/industriuka/blob/main/industriuka2024-Stand.png)
